@@ -8,19 +8,10 @@
   <li>🇬🇧 - English (British)</li>
 </ul>
 <h4><---- Others ---></h4>
-### Hi there 👋
-
-<!--
-**JoshuaLevy029/JoshuaLevy029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 💼 I'm currently on the ETAPA Educacional as Web Developer
+  - 🇧🇷 I live in Brazil
+  - 💻 I'm currently studying more about React and eating Laravel's Documentations with the new release
+  - 💬 U can as me about anything... I'll answer if i know
+  - 😄 U can call me: Josh / Larazus / Levy
+  - 📫 Send me a e-mail
+  - ⚡ Full Away facts: I also like to play video games... Actually, I'm a geek, sooooo... Join me in the Dark Side young Padawan
