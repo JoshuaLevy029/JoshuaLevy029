@@ -1,5 +1,15 @@
 <h1>Greetings. I'm Joshua</h1><br>
-<code style="color:red;font-weight:bold;">Status Code: 401</code>
+<h3>Status Code: 401</h3><br><br>
+
+<h4><---- Graduation & Knowledge ---></h4>
+<ul>
+  <li>👨‍🎓 - Graduated Mechatronic Engineering</li>
+  <li>👨‍💻 - Web Developer</li>
+  <li>📱 - Mobile Developer</li>
+  <li>🇬🇧 - English (British)</li>
+</ul>
+<br><br>
+<h4><---- Others ---></h4>
 ### Hi there 👋
 
 <!--
