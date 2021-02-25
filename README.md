@@ -1,5 +1,5 @@
-<h1>Greetings. I'm Joshua</h1><br>
-<h3>Status Code: 401</h3><br><br>
+<h1>Greetings. I'm Joshua</h1>
+<h3>Status Code: 401</h3><br>
 
 <h4><---- Graduation & Knowledge ---></h4>
 <ul>
@@ -8,7 +8,7 @@
   <li>📱 - Mobile Developer</li>
   <li>🇬🇧 - English (British)</li>
 </ul>
-<br><br>
+<br>
 <h4><---- Others ---></h4>
 ### Hi there 👋
 
