@@ -5,7 +5,7 @@
   <li>👨‍🎓 - Graduated Mechatronic Engineering</li>
   <li>👨‍💻 - Web Developer</li>
   <li>📱 - Mobile Developer</li>
-  <li>🇬🇧 - English (British)</li>
+  <li>🇬🇧 - English (British) (Not my mother language)</li>
 </ul>
 <h4><---- Others ---></h4>
 <ul>
